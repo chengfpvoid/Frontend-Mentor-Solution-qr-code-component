@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Links](#Links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ###  Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://chengfpvoid.github.io/Frontend-Mentor-Solution-qr-code-component/)
 
 ## My process
 
